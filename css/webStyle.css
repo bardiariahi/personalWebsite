@@ -1,0 +1,95 @@
+body{
+    overflow-x: hidden;
+    direction: ltr;
+    text-align: left;
+    font-family: Helvetica;
+}
+.navbarCustom{
+    background: rgba(0,0,0,0.8);
+    height: 45px;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.textStyle{
+    color: white;
+    font-size: 16px;
+}
+.textWhite{
+    color: white;
+}
+.imgStyles{
+    border-radius: 90px;
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+}
+.titleStyle{
+    argin: 0 0 5px 0;
+    text-align: center;
+    background-color: #96D8DB;
+    padding: 5px;
+    border-radius: 5px;
+    color: #fff;
+    display: inline-block;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.contactMe,.contactMe:hover{
+    display: block;
+    color: #dc8100;
+    text-decoration: none;
+}
+.left{
+    text-align: left;
+}
+.paragraphStyle{
+    margin: 0;
+}
+.instagram{
+    background-image: url("../assets/images/instagram.svg");
+    height: 30px;
+    width: 30px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 30px;
+    margin: 10px;
+}
+.youtube{
+    background-image: url("../assets/images/youtube.svg");
+    height: 30px;
+    width: 30px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 30px;
+    margin: 10px;
+}
+.twitter {
+    background-image: url("../assets/images/twitter.svg");
+    height: 30px;
+    width: 30px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 30px;
+    margin: 10px;
+}
+.linkedin {
+    background-image: url("../assets/images/linkedin.svg");
+    height: 30px;
+    width: 30px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 30px;
+    margin: 10px;
+}
+.gmail {
+    background-image: url("../assets/images/gmail.svg");
+    height: 30px;
+    width: 30px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 30px;
+    margin: 10px;
+}
+.t{
+    min-height: 120px
+}
